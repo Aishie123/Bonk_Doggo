@@ -2,4 +2,6 @@
     <string name="app_name">Dones_MyFirstApp</string>
     <string name="bonk">bonk</string>
     <string name="nobonk">nobonk</string>
+    <string name="bonked">BONKED</string>
+    <string name="tap_to_bonk">Tap to bonk</string>
 </resources>
