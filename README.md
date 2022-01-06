@@ -1,4 +1,4 @@
-# Bonk-Doggo-App-
+# Bonk Doggo App
 
 What is this app? OwO
 
